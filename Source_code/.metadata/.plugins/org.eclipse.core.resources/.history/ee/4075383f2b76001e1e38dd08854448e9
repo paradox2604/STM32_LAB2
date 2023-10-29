@@ -145,7 +145,7 @@ int main(void)
 		  second++;
 		  if (second >= 60){
 			  second = 0;
-			  minute++;
+			  min++;
 		  }
 
 		  if (minute >= 60){
