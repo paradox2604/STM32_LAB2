@@ -669,7 +669,7 @@ int main(void)
  800058c:	f107 0418 	add.w	r4, r7, #24
  8000590:	cb0f      	ldmia	r3, {r0, r1, r2, r3}
  8000592:	e884 000f 	stmia.w	r4, {r0, r1, r2, r3}
-  uint8_t matrix_buffer[8] = {0x04, 0x08, 0x18, 0x28, 0x28, 0x18, 0x08, 0x04};
+  uint8_t matrix_buffer[8] = {0x04, 0x04, 0x04, 0x04, 0x04, 0x04, 0x04, 0x04};
  8000596:	4a31      	ldr	r2, [pc, #196]	; (800065c <main+0x13c>)
  8000598:	f107 0338 	add.w	r3, r7, #56	; 0x38
  800059c:	e892 0003 	ldmia.w	r2, {r0, r1}

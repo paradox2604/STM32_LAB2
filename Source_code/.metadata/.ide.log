@@ -756,3 +756,115 @@
 2023-10-29 10:41:48,226 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 4545mS.
 2023-10-29 10:41:48,226 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
 2023-10-29 10:41:48,242 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 12:00:23,842 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,482x218,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 12:00:25,209 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 852021536 Bytes (1073741824)
+2023-10-29 12:00:26,852 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 873519392 Bytes (1073741824)
+2023-10-29 12:00:30,868 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 757042424 Bytes (1073741824)
+2023-10-29 12:00:31,242 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-10-29 12:00:31,243 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-10-29 12:00:31,243 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-10-29 12:00:31,243 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-10-29 12:00:31,243 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2023-10-29 12:00:31,244 [INFO] CodeGenerator:663 - code generatio: config db path: D:\BK\HK_231\VXL\Project\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-10-29 12:00:31,577 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp_save
+2023-10-29 12:00:31,693 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp
+2023-10-29 12:00:31,734 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp_save
+2023-10-29 12:00:31,874 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp
+2023-10-29 12:00:31,936 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c_save
+2023-10-29 12:00:32,040 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c
+2023-10-29 12:00:32,053 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h_save
+2023-10-29 12:00:32,146 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h
+2023-10-29 12:00:32,163 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c_save
+2023-10-29 12:00:32,249 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c
+2023-10-29 12:00:32,252 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp_save
+2023-10-29 12:00:32,293 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp
+2023-10-29 12:00:32,309 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-10-29 12:00:32,383 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h
+2023-10-29 12:00:32,399 [WARN] IPConfigManager:3148 - IP not found : TIM
+2023-10-29 12:00:32,400 [WARN] CodeGenerator:3268 - IP not found : null
+2023-10-29 12:00:32,413 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h_save
+2023-10-29 12:00:32,495 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h
+2023-10-29 12:00:32,510 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c_save
+2023-10-29 12:00:32,612 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c
+2023-10-29 12:00:33,698 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 135mS.
+2023-10-29 12:00:33,702 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-10-29 12:00:34,387 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2023-10-29 12:00:37,761 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 4059mS.
+2023-10-29 12:00:37,762 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 12:00:37,765 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 13:13:56,237 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 847350000 Bytes (1073741824)
+2023-10-29 13:13:57,153 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 863412376 Bytes (1073741824)
+2023-10-29 13:13:58,211 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 779849160 Bytes (1073741824)
+2023-10-29 13:13:58,822 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-10-29 13:13:58,822 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-10-29 13:13:58,823 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-10-29 13:13:58,823 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-10-29 13:13:58,823 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2023-10-29 13:13:58,824 [INFO] CodeGenerator:663 - code generatio: config db path: D:\BK\HK_231\VXL\Project\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-10-29 13:13:59,632 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp_save
+2023-10-29 13:13:59,779 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp
+2023-10-29 13:13:59,836 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp_save
+2023-10-29 13:13:59,955 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp
+2023-10-29 13:14:00,178 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c_save
+2023-10-29 13:14:00,438 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c
+2023-10-29 13:14:00,454 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h_save
+2023-10-29 13:14:00,609 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h
+2023-10-29 13:14:00,632 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c_save
+2023-10-29 13:14:00,792 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c
+2023-10-29 13:14:00,800 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp_save
+2023-10-29 13:14:00,881 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp
+2023-10-29 13:14:00,905 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-10-29 13:14:01,061 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h
+2023-10-29 13:14:01,087 [WARN] IPConfigManager:3148 - IP not found : TIM
+2023-10-29 13:14:01,089 [WARN] CodeGenerator:3268 - IP not found : null
+2023-10-29 13:14:01,108 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h_save
+2023-10-29 13:14:01,223 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h
+2023-10-29 13:14:01,243 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c_save
+2023-10-29 13:14:01,419 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c
+2023-10-29 13:14:02,937 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 171mS.
+2023-10-29 13:14:02,944 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-10-29 13:14:04,532 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2023-10-29 13:14:07,734 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 4790mS.
+2023-10-29 13:14:07,735 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
+2023-10-29 13:14:07,738 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 15:28:03,821 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 917617560 Bytes (1073741824)
+2023-10-29 15:28:04,670 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 932882520 Bytes (1073741824)
+2023-10-29 15:28:06,186 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 829183960 Bytes (1073741824)
+2023-10-29 15:28:06,844 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-10-29 15:28:06,845 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-10-29 15:28:06,846 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-10-29 15:28:06,846 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-10-29 15:28:06,846 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2023-10-29 15:28:06,846 [INFO] CodeGenerator:663 - code generatio: config db path: D:\BK\HK_231\VXL\Project\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-10-29 15:28:07,666 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp_save
+2023-10-29 15:28:07,803 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\license.tmp
+2023-10-29 15:28:08,006 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp_save
+2023-10-29 15:28:08,208 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\gpio.tmp
+2023-10-29 15:28:08,556 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c_save
+2023-10-29 15:28:08,776 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_it.c
+2023-10-29 15:28:08,800 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h_save
+2023-10-29 15:28:08,966 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_it.h
+2023-10-29 15:28:08,997 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c_save
+2023-10-29 15:28:09,194 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\stm32f1xx_hal_msp.c
+2023-10-29 15:28:09,200 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp_save
+2023-10-29 15:28:09,306 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\MXTmpFiles\system.tmp
+2023-10-29 15:28:09,335 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-10-29 15:28:09,508 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\stm32f1xx_hal_conf.h
+2023-10-29 15:28:09,537 [WARN] IPConfigManager:3148 - IP not found : TIM
+2023-10-29 15:28:09,537 [WARN] CodeGenerator:3268 - IP not found : null
+2023-10-29 15:28:09,556 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h_save
+2023-10-29 15:28:09,718 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Inc\main.h
+2023-10-29 15:28:09,746 [INFO] CodeEngine:239 - oldGeneratedFile, D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c_save
+2023-10-29 15:28:09,946 [INFO] CodeEngine:257 - Generated code: D:\BK\HK_231\VXL\GIT\LAB2\Source_code\LAB2_Exercise\Core\Src\main.c
+2023-10-29 15:28:11,331 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 125mS.
+2023-10-29 15:28:11,336 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-10-29 15:28:12,202 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2023-10-29 15:28:15,986 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 4650mS.
+2023-10-29 15:28:15,990 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 15:28:15,990 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-29 16:00:00,001 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,482x218,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 16:29:44,560 [INFO] Gpio:254 - dependency for GPIO []
+2023-11-01 07:58:39,837 [INFO] Activator:177 - 
+
+
+2023-11-01 07:58:39,837 [INFO] Activator:178 - !SESSION log4j initialized
